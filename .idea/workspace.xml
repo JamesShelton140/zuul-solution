@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b029cce-b0c2-423c-b8cf-6d4f828b078e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/BadExitException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/command/CommandWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/command/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/io/In.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/io/Out.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/CommandWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/DROPcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/GIVEcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/GOcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/HELPcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/LOOKcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/MessagesBundle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/MessagesBundle_en_US.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/MessagesBundle_fr_FR.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/MyGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/QUITcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/TAKEcommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/UnknownCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul-bad-extended.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Assessment 1/zuul-bad-extended" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Application.Main (1)">
@@ -123,18 +93,34 @@
       <workItem from="1602851013186" duration="6000" />
       <workItem from="1602856737291" duration="658000" />
       <workItem from="1605015696348" duration="807000" />
-      <workItem from="1605534396663" duration="305000" />
+      <workItem from="1605534396663" duration="1630000" />
     </task>
+    <task id="LOCAL-00001" summary="Created repo and added all files.">
+      <created>1605534815466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605534815466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created repo and added all files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created repo and added all files." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1605534434433">
+    <state x="757" y="287" key="CommitChangelistDialog2" timestamp="1605534814071">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/2560.357.1920.1040/340.-1080.1920.1040/-1080.-195.1080.1880@0.0.2560.1400" timestamp="1605534434433" />
+    <state x="757" y="287" key="CommitChangelistDialog2/0.0.2560.1400/2560.357.1920.1040/340.-1080.1920.1040/-1080.-195.1080.1880@0.0.2560.1400" timestamp="1605534814071" />
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1605535816558">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/2560.357.1920.1040/340.-1080.1920.1040/-1080.-195.1080.1880@0.0.2560.1400" timestamp="1605535816558" />
     <state width="1634" height="210" key="GridCell.Tab.0.bottom" timestamp="1605016504415">
       <screen x="-2560" y="-657" width="2560" height="1417" />
     </state>
