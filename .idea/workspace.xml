@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b029cce-b0c2-423c-b8cf-6d4f828b078e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/BadExitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/command/CommandWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/command/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/io/In.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/io/Out.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/CommandWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/DROPcommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/GIVEcommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/GOcommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/HELPcommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/LOOKcommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/MessagesBundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/MessagesBundle_en_US.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/MessagesBundle_fr_FR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/MyGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/QUITcommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/TAKEcommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zuul/mygame/UnknownCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul-bad-extended.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iUrqUiJUtDas5MKnpaizpIudBV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuul.Main" />
+      <module name="zuul-bad-extended" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="zuul-bad-extended" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b029cce-b0c2-423c-b8cf-6d4f828b078e" name="Default Changelist" comment="" />
+      <created>1601973202513</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601973202513</updated>
+      <workItem from="1601973204179" duration="887000" />
+      <workItem from="1601974494755" duration="6000" />
+      <workItem from="1601978017105" duration="456000" />
+      <workItem from="1602255665939" duration="4173000" />
+      <workItem from="1602447352284" duration="294000" />
+      <workItem from="1602520908958" duration="624000" />
+      <workItem from="1602542179262" duration="5000" />
+      <workItem from="1602583532153" duration="1113000" />
+      <workItem from="1602666547635" duration="663000" />
+      <workItem from="1602667230177" duration="1229000" />
+      <workItem from="1602757730294" duration="4000" />
+      <workItem from="1602800436319" duration="902000" />
+      <workItem from="1602851013186" duration="6000" />
+      <workItem from="1602856737291" duration="658000" />
+      <workItem from="1605015696348" duration="807000" />
+      <workItem from="1605534396663" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1605534434433">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400/2560.357.1920.1040/340.-1080.1920.1040/-1080.-195.1080.1880@0.0.2560.1400" timestamp="1605534434433" />
+    <state width="1634" height="210" key="GridCell.Tab.0.bottom" timestamp="1605016504415">
+      <screen x="-2560" y="-657" width="2560" height="1417" />
+    </state>
+    <state width="1634" height="210" key="GridCell.Tab.0.bottom/0.23.1440.877/-2560.-657.2560.1417@-2560.-657.2560.1417" timestamp="1605016504415" />
+    <state width="1894" height="477" key="GridCell.Tab.0.bottom/0.23.1440.877/-2560.-715.2560.1417@-2560.-715.2560.1417" timestamp="1602257550878" />
+    <state width="1894" height="477" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602281914980" />
+    <state width="1634" height="210" key="GridCell.Tab.0.center" timestamp="1605016504414">
+      <screen x="-2560" y="-657" width="2560" height="1417" />
+    </state>
+    <state width="1634" height="210" key="GridCell.Tab.0.center/0.23.1440.877/-2560.-657.2560.1417@-2560.-657.2560.1417" timestamp="1605016504414" />
+    <state width="1894" height="477" key="GridCell.Tab.0.center/0.23.1440.877/-2560.-715.2560.1417@-2560.-715.2560.1417" timestamp="1602257550877" />
+    <state width="1894" height="477" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1602281914979" />
+    <state width="1634" height="210" key="GridCell.Tab.0.left" timestamp="1605016504413">
+      <screen x="-2560" y="-657" width="2560" height="1417" />
+    </state>
+    <state width="1634" height="210" key="GridCell.Tab.0.left/0.23.1440.877/-2560.-657.2560.1417@-2560.-657.2560.1417" timestamp="1605016504413" />
+    <state width="1894" height="477" key="GridCell.Tab.0.left/0.23.1440.877/-2560.-715.2560.1417@-2560.-715.2560.1417" timestamp="1602257550877" />
+    <state width="1894" height="477" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1602281914978" />
+    <state width="1634" height="210" key="GridCell.Tab.0.right" timestamp="1605016504415">
+      <screen x="-2560" y="-657" width="2560" height="1417" />
+    </state>
+    <state width="1634" height="210" key="GridCell.Tab.0.right/0.23.1440.877/-2560.-657.2560.1417@-2560.-657.2560.1417" timestamp="1605016504415" />
+    <state width="1894" height="477" key="GridCell.Tab.0.right/0.23.1440.877/-2560.-715.2560.1417@-2560.-715.2560.1417" timestamp="1602257550878" />
+    <state width="1894" height="477" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1602281914980" />
+    <state width="1894" height="477" key="GridCell.Tab.1.bottom" timestamp="1602281914981">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1894" height="477" key="GridCell.Tab.1.bottom/0.23.1440.877/-2560.-715.2560.1417@-2560.-715.2560.1417" timestamp="1602257550879" />
+    <state width="1894" height="477" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1602281914981" />
+    <state width="1894" height="477" key="GridCell.Tab.1.center" timestamp="1602281914981">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1894" height="477" key="GridCell.Tab.1.center/0.23.1440.877/-2560.-715.2560.1417@-2560.-715.2560.1417" timestamp="1602257550878" />
+    <state width="1894" height="477" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1602281914981" />
+    <state width="1894" height="477" key="GridCell.Tab.1.left" timestamp="1602281914980">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1894" height="477" key="GridCell.Tab.1.left/0.23.1440.877/-2560.-715.2560.1417@-2560.-715.2560.1417" timestamp="1602257550878" />
+    <state width="1894" height="477" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1602281914980" />
+    <state width="1894" height="477" key="GridCell.Tab.1.right" timestamp="1602281914981">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1894" height="477" key="GridCell.Tab.1.right/0.23.1440.877/-2560.-715.2560.1417@-2560.-715.2560.1417" timestamp="1602257550879" />
+    <state width="1894" height="477" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1602281914981" />
+    <state x="-1241" y="-211" width="2376" height="1216" maximized="true" key="dock-window-2" timestamp="1605534703573">
+      <screen x="-1080" y="-195" width="1080" height="1880" />
+    </state>
+    <state x="-1241" y="-211" width="2376" height="1216" maximized="true" key="dock-window-2/0.0.2560.1400/2560.357.1920.1040/340.-1080.1920.1040/-1080.-195.1080.1880@0.0.2560.1400" timestamp="1605534703573" />
+    <state x="-1785" y="-71" key="new project wizard" timestamp="1602666692869">
+      <screen x="-2560" y="-355" width="2560" height="1417" />
+    </state>
+    <state x="-1785" y="-71" key="new project wizard/0.23.1440.877/-2560.-355.2560.1417@-2560.-355.2560.1417" timestamp="1602666692869" />
+  </component>
+</project>
